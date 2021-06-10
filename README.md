@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes Bibliotecas:
 - Axios - Para consumir os dados da API
 - Styled-Components - Estilizar os componentes
 
-##  📚  Screens
+##  📱  Screens
 
 <img src="https://github.com/Luizrebelatto/Desafio-Tecnico-Mobile-Basico/blob/master/src/assets/Tela1.PNG" width="290" height="712" /> <img src="https://github.com/Luizrebelatto/Desafio-Tecnico-Mobile-Basico/blob/master/src/assets/Tela2.PNG" width="290" height="712" />
 
