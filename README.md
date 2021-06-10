@@ -6,6 +6,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-bibliotecas">Bibliotecas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-screens">Screens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -29,6 +30,10 @@ Esse projeto foi desenvolvido com as seguintes Bibliotecas:
 
 - Axios - Para consumir os dados da API
 - Styled-Components - Estilizar os componentes
+
+##  📚  Screens
+
+<img src="https://github.com/Luizrebelatto/Desafio-Tecnico-Mobile-Basico/blob/master/src/assets/Tela1.PNG" width="290" height="712" /> <img src="https://github.com/Luizrebelatto/Desafio-Tecnico-Mobile-Basico/blob/master/src/assets/Tela2.PNG" width="290" height="712" />
 
 
 ## 🚀 Como executar
