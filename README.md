@@ -1,5 +1,4 @@
-# Desafio-Tecnico-Mobile-Basico
-Resolução do Desafio Técnico da empresa codificar
+
 
 <h1 align="center">Desafio-Tecnico-Mobile-Basico</h1>
 
