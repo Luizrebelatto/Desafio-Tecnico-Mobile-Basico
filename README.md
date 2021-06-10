@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Desafio-Tecnico-Mobile-Basico</h1>
+<h1 align="center">Desafio Tecnico Mobile - Básico</h1>
 
 <p align="center">
   <a href="#-tecnologias">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
