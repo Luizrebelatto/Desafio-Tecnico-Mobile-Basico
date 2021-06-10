@@ -13,7 +13,7 @@
 
 ## 💻 Projeto
 
-Resolução do Desafio Técnico da empresa codificar
+Resolução do Desafio Técnico da empresa codificar, nesse desafio consumi uma Api com informações de clientes onde exibe uma prévia dos dados do orçamento e se quiser ter mais informações, clicando no botao,assim abre janela com todas informações do cliente
 
 
 ## ✨ Tecnologias
@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto foi desenvolvido com as seguintes Bibliotecas:
 
-- Axios - para consumir os dados da API
+- Axios - Para consumir os dados da API
 - Styled-Components - Estilizar os componentes
 
 
