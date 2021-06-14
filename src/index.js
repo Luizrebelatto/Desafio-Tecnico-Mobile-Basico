@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Wrapper, FlatList } from './Budgets/styles'
 
-import api from './Services/api';
+import api from './services/api';
 import Budgets from './Budgets';
 
 export default function App() {
