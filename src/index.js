@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
-import { Wrapper, FlatList } from './Budgets/styles'
+import { Wrapper, FlatList } from './screens/Budgets/styles'
 
 import api from './services/api';
-import Budgets from './Budgets';
+import Budgets from './screens/Budgets';
 
 export default function App() {
     const [dataBudge, setDataBudge] = useState([]);
